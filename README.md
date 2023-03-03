@@ -4,9 +4,9 @@ Soy estudiante de la carrera de ingeniería Industrial. Busco cada dia aprender 
 
 Algunas de las habilidades blandas que se que me ayudaran a cumplir mis metas son las que adquirí durante mi etapa en la universidad, tanto estudiando como conociendo compañeros y amigos, habilidades como el trabajo en equipo, empatía y pensamiento crítico.
 
-## ⚙️ Proyectos
-
 ---
+
+## ⚙️ Proyectos
 
 Una de las partes mas interesantes es el momento de aplicar la teoría en la práctica, por ello aquí presento algunos de los proyectos que tengo realizados.
 
@@ -19,9 +19,10 @@ Una de las partes mas interesantes es el momento de aplicar la teoría en la pr�
 - [Página de Documentación Técnica](https://maubedoya.github.io/documentacion-tecnica/javascript.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/survey-form-cytus)
   : Blog de documentación técnica de Javascript (desactualizado), donde se aplican conceptos aprendidos sobre maquetación y estilizado de diferentes elementos de las páginas web.
 
+---
+
 ## 🔧 Stack de Tecnologías
 
----
 
 | Lenguajes de Programación | Frontend | Herramientas       |
 | ------------------------- | -------- | ------------------ |
