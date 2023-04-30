@@ -11,14 +11,15 @@ Algunas de las habilidades blandas que se que me ayudaran a cumplir mis metas so
 Una de las partes mas interesantes es el momento de aplicar la teoría en la práctica, por ello aquí presento algunos de los proyectos que tengo realizados.
 
 - [Blog Tributo a GUNNM](https://maubedoya.github.io/pagina-tributo-GUNNM/GUNNM.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/pagina-tributo-GUNNM)
-  : Blog básico realizado para practicar la maquetación y semántica en HTML.
+  : Blog básico realizado para practicar la maquetación y semántica en HTML (realizado para FreeCodeCamp).
 
 - [Encuesta a Usuarios de CYTUS](https://maubedoya.github.io/survey-form-cytus/surveyForm.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/survey-form-cytus)
-  : Maquetado de formulario aplicando conocimientos sobre selectores en CSS.
+  : Maquetado de formulario aplicando conocimientos sobre selectores en CSS (realizado para FreeCodeCamp).
 
 - [Página de Documentación Técnica](https://maubedoya.github.io/documentacion-tecnica/javascript.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/documentacion-tecnica)
-  : Blog de documentación técnica de Javascript (desactualizado), donde se aplican conceptos aprendidos sobre maquetación y estilizado de diferentes elementos de las páginas web.
+  : Blog de documentación técnica de Javascript (contenido desactualizado), donde se aplican conceptos aprendidos sobre maquetación y estilizado de diferentes elementos de las páginas web (realizado para FreeCodeCamp).
 
+- [Pizzeria Landing Page](https://thepizzeria.vercel.app/) ➡ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/pizzeria-lp) : Maquetado de landing page aplicando conceptos de ITCSS y Atomic Design sobre SASS, con HTML y vanilla JavaScript.
 ---
 
 ## 🔧 Stack de Tecnologías
