@@ -18,23 +18,20 @@ I am a student of Industrial Engineering with a keen interest in the field of so
 
 ## ⚙️ Projects
 
-- [Plus Calculator](https://plus-calculator.vercel.app/) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/plus-calculator)
+- [Plus Calculator](https://plus-calculator.vercel.app/) ➡️ [**_[ REPO ]_**](https://github.com/MauBedoya/plus-calculator)
   : Development focused on providing added value to a basic calculator by incorporating additional functionalities. Concepts such as modules, session storage, ES6+ features, and more are applied.
 
-- [Consulting Firm Landing Page](https://consulting-firm-landign-page.vercel.app/) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/consulting-firm-landign-page)
+- [Consulting Firm Landing Page](https://consulting-firm-landign-page.vercel.app/) ➡️ [**_[ REPO ]_**](https://github.com/MauBedoya/consulting-firm-landign-page)
   : Layout and styling of a landing page focused on an industrial consulting firm that showcases relevant details about the areas of work, services offered, and contact information. Multiple customized features of Tailwind CSS were applied.
 
-- [Pizzeria Landing Page](https://thepizzeria.vercel.app/) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/pizzeria-lp)
+- [Pizzeria Landing Page](https://thepizzeria.vercel.app/) ➡️ [**_[ REPO ]_**](https://github.com/MauBedoya/pizzeria-lp)
   : Layout and styling of a landing page applying concepts of **ITCSS** and **Atomic Design** using SASS, along with HTML and vanilla JavaScript.
 
-- [Página de Documentación Técnica]() ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/documentacion-tecnica)
+- [Página de Documentación Técnica]() ➡️ [**_[ REPO ]_**](https://github.com/MauBedoya/documentacion-tecnica)
   : Technical documentation blog for JavaScript (outdated content), where concepts learned about layout and styling from FreeCodeCamp were applied.
 
-- [Encuesta a Usuarios de CYTUS](https://maubedoya.github.io/survey-form-cytus/surveyForm.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/survey-form-cytus)
-  : Maquetado de formulario aplicando conocimientos sobre selectores en CSS obtenidos de FreeCodeCamp.
+- [Encuesta a Usuarios de CYTUS](https://maubedoya.github.io/survey-form-cytus/surveyForm.html) ➡️ [**_[ REPO ]_**](https://github.com/MauBedoya/survey-form-cytus)
+  : Layout and styling of a form applying CSS selector knowledge acquired from FreeCodeCamp.
 
-- [Blog Tributo a GUNNM](https://maubedoya.github.io/pagina-tributo-GUNNM/GUNNM.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/pagina-tributo-GUNNM)
+- [Blog Tributo a GUNNM](https://maubedoya.github.io/pagina-tributo-GUNNM/GUNNM.html) ➡️ [**_[ REPO ]_**](https://github.com/MauBedoya/pagina-tributo-GUNNM)
   : Basic blog created to practice HTML layout and semantics.
-
----
-
