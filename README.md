@@ -1,29 +1,40 @@
-# Hola! 👋, soy Mauricio Bedoya Deheza
+# Hi! 👋, I'am Mauricio Bedoya
 
-Soy estudiante de la carrera de ingeniería Industrial. Busco cada dia aprender o crear algo nuevo pensando en el futuro y su valor, con la programación encontré lo que es una nueva pasión que me ayuda a cumplir con esta búsqueda interminable.
+I am a student of Industrial Engineering with a keen interest in the field of software and data. Every day, I seek to expand my knowledge and consider its value for the future. Programming has become a new passion for me, propelling me forward in this endless quest.
 
-Algunas de las habilidades blandas que se que me ayudaran a cumplir mis metas son las que adquirí durante mi etapa en la universidad, tanto estudiando como conociendo compañeros y amigos, habilidades como el trabajo en equipo, empatía y pensamiento crítico.
+- 👨‍💻 Currently, I'm studying the fundamentals of frontend and backend at **Undefined Academy** and delving deeper into the topics through self-learning.
+- 🔭 Right now, I'm working on personal projects that help me review and enhance my skills, but I'm very interested in participating in a project that can meet the needs of a company.
+- 🌱 In addition to reinforcing what I have learned in frontend, I'm also interested in exploring technologies related to **backend and data**.
 
 ---
 
-## ⚙️ Proyectos
+## 🔧 Tech Stack
 
-Una de las partes mas interesantes es el momento de aplicar la teoría en la práctica, por ello aquí presento algunos de los proyectos que tengo realizados.
+| Languages | Frontend | Tools       |
+| ------------------------- | -------- | ------------------ |
+| <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" style="width: 100px;"> | <img src="https://img.shields.io/badge/-Html-000000?style=flat&logo=html5" style="width: 60px;">  <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" style="width: 55px;"> <img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass" style="width: 60px;"> <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss" style="width: 100px;"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" style="width: 65px;">| <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" style="width: 50px;"> <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" style="width: 75px;"> <img src="https://img.shields.io/badge/-VSC-000000?style=flat&logo=visualstudiocode" style="width: 55px;"> |
 
-- [Blog Tributo a GUNNM](https://maubedoya.github.io/pagina-tributo-GUNNM/GUNNM.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/pagina-tributo-GUNNM)
-  : Blog básico realizado para practicar la maquetación y semántica en HTML (realizado para FreeCodeCamp).
+---
+
+## ⚙️ Projects
+
+- [Plus Calculator](https://plus-calculator.vercel.app/) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/plus-calculator)
+  : Development focused on providing added value to a basic calculator by incorporating additional functionalities. Concepts such as modules, session storage, ES6+ features, and more are applied.
+
+- [Consulting Firm Landing Page](https://consulting-firm-landign-page.vercel.app/) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/consulting-firm-landign-page)
+  : Layout and styling of a landing page focused on an industrial consulting firm that showcases relevant details about the areas of work, services offered, and contact information. Multiple customized features of Tailwind CSS were applied.
+
+- [Pizzeria Landing Page](https://thepizzeria.vercel.app/) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/pizzeria-lp)
+  : Layout and styling of a landing page applying concepts of **ITCSS** and **Atomic Design** using SASS, along with HTML and vanilla JavaScript.
+
+- [Página de Documentación Técnica]() ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/documentacion-tecnica)
+  : Technical documentation blog for JavaScript (outdated content), where concepts learned about layout and styling from FreeCodeCamp were applied.
 
 - [Encuesta a Usuarios de CYTUS](https://maubedoya.github.io/survey-form-cytus/surveyForm.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/survey-form-cytus)
-  : Maquetado de formulario aplicando conocimientos sobre selectores en CSS (realizado para FreeCodeCamp).
+  : Maquetado de formulario aplicando conocimientos sobre selectores en CSS obtenidos de FreeCodeCamp.
 
-- [Página de Documentación Técnica](https://maubedoya.github.io/documentacion-tecnica/javascript.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/documentacion-tecnica)
-  : Blog de documentación técnica de Javascript (contenido desactualizado), donde se aplican conceptos aprendidos sobre maquetación y estilizado de diferentes elementos de las páginas web (realizado para FreeCodeCamp).
+- [Blog Tributo a GUNNM](https://maubedoya.github.io/pagina-tributo-GUNNM/GUNNM.html) ➡️ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/pagina-tributo-GUNNM)
+  : Basic blog created to practice HTML layout and semantics.
 
-- [Pizzeria Landing Page](https://thepizzeria.vercel.app/) ➡ [**_[ REPOSITORIO ]_**](https://github.com/MauBedoya/pizzeria-lp) : Maquetado de landing page aplicando conceptos de ITCSS y Atomic Design sobre SASS, con HTML y vanilla JavaScript.
 ---
 
-## 🔧 Stack de Tecnologías
-
-| Lenguajes de Programación | Frontend | Herramientas       |
-| ------------------------- | -------- | ------------------ |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
